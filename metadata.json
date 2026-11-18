@@ -1,0 +1,6 @@
+{
+  "name": "AI Evidence Admissibility Framework",
+  "description": "Visual infographic diagram and interactive functionality explorer for AI evidence classification, burden of proof, disclosure, reliability, and provenance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
